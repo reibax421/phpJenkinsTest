@@ -4,6 +4,6 @@
  * and open the template in the editor.
  */
 
-mkdir("/home/inaki/Desktop/test", 0700);
+mkdir("/home/inaki/Desktop/test2", 0700);
 
 ?>
